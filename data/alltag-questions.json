@@ -1,0 +1,242 @@
+{
+  "titel": "Dein Alltag ist politisch",
+  "beschreibung": "Politik ist nicht abstrakt – sie beeinflusst deinen Alltag jeden Tag. Beantworte ein paar Fragen zu deinem Alltag und entdecke, welche politischen Themen dahinterstehen.",
+  "fragen": [
+    {
+      "id": 1,
+      "frage": "Wie kommst du morgens zur Arbeit oder Schule?",
+      "optionen": [
+        {
+          "text": "Auto (allein)",
+          "themen": ["Verkehrspolitik", "Klimaschutz", "Stadtplanung"]
+        },
+        {
+          "text": "Auto (Fahrgemeinschaft)",
+          "themen": ["Verkehrspolitik", "Klimaschutz"]
+        },
+        {
+          "text": "Öffentliche Verkehrsmittel",
+          "themen": ["Infrastruktur", "Öffentlicher Nahverkehr", "Soziale Mobilität"]
+        },
+        {
+          "text": "Fahrrad",
+          "themen": ["Radinfrastruktur", "Klimaschutz", "Gesundheitspolitik"]
+        },
+        {
+          "text": "Zu Fuß",
+          "themen": ["Stadtplanung", "Wohnungspolitik"]
+        },
+        {
+          "text": "Home Office",
+          "themen": ["Arbeitszeitpolitik", "Digitalisierung"]
+        }
+      ],
+      "erklaerung": {
+        "titel": "Mobilität ist Politik",
+        "text": "Wie du zur Arbeit kommst, hängt von vielen politischen Entscheidungen ab: Gibt es gut ausgebaute Radwege? Wie oft fährt der Bus? Sind die Tickets bezahlbar? Ist Home Office erlaubt? All das wird politisch gestaltet – von der Kommune bis zur EU.",
+        "sdgs": [11, 13]
+      }
+    },
+    {
+      "id": 2,
+      "frage": "Wie leicht bekommst du einen Arzttermin?",
+      "optionen": [
+        {
+          "text": "Sehr leicht, innerhalb weniger Tage",
+          "themen": ["Gesundheitssystem", "Medizinische Versorgung"]
+        },
+        {
+          "text": "Geht so, nach 1-2 Wochen",
+          "themen": ["Gesundheitssystem", "Ärztemangel"]
+        },
+        {
+          "text": "Schwierig, mehrere Wochen Wartezeit",
+          "themen": ["Gesundheitssystem", "Ärztemangel", "Ländliche Entwicklung"]
+        },
+        {
+          "text": "Sehr schwierig, Monate Wartezeit",
+          "themen": ["Gesundheitssystem", "Versorgungsengpässe"]
+        }
+      ],
+      "erklaerung": {
+        "titel": "Gesundheit ist keine Privatsache",
+        "text": "Ob du schnell einen Arzttermin bekommst, hängt von der Gesundheitspolitik ab: Wie werden Ärzte bezahlt? Gibt es genug Praxen in deiner Region? Werden Landärzte gefördert? Diese Fragen werden politisch entschieden.",
+        "sdgs": [3]
+      }
+    },
+    {
+      "id": 3,
+      "frage": "Was isst du heute zu Mittag?",
+      "optionen": [
+        {
+          "text": "Fleischgericht",
+          "themen": ["Landwirtschaftspolitik", "Klimaschutz", "Tierschutz", "Subventionen"]
+        },
+        {
+          "text": "Vegetarisches Gericht",
+          "themen": ["Landwirtschaftspolitik", "Ernährungspolitik"]
+        },
+        {
+          "text": "Veganes Gericht",
+          "themen": ["Landwirtschaftspolitik", "Klimaschutz", "Tierschutz"]
+        },
+        {
+          "text": "Fertiggericht",
+          "themen": ["Verbraucherschutz", "Kennzeichnungspflicht", "Gesundheitspolitik"]
+        },
+        {
+          "text": "Regional & Bio",
+          "themen": ["Förderung ökologischer Landwirtschaft", "Handelspolitik"]
+        }
+      ],
+      "erklaerung": {
+        "titel": "Essen ist politisch",
+        "text": "Was auf deinem Teller landet und was es kostet, wird massiv durch Politik beeinflusst: Welche Landwirtschaft wird subventioniert? Welche Lebensmittel werden besteuert? Was muss auf der Verpackung stehen? Woher kommen die Zutaten?",
+        "sdgs": [2, 12, 13, 15]
+      }
+    },
+    {
+      "id": 4,
+      "frage": "Wo kaufst du deine Kleidung?",
+      "optionen": [
+        {
+          "text": "Fast Fashion Ketten",
+          "themen": ["Handelspolitik", "Arbeitsbedingungen", "Lieferkettengesetz"]
+        },
+        {
+          "text": "Online-Versand",
+          "themen": ["Handelspolitik", "Verbraucherschutz", "Arbeitsbedingungen"]
+        },
+        {
+          "text": "Lokale Geschäfte",
+          "themen": ["Wirtschaftsförderung", "Stadtentwicklung"]
+        },
+        {
+          "text": "Second Hand",
+          "themen": ["Kreislaufwirtschaft", "Nachhaltigkeit"]
+        },
+        {
+          "text": "Fair Trade / nachhaltige Labels",
+          "themen": ["Zertifizierung", "Faire Handelsbedingungen", "Transparenz"]
+        }
+      ],
+      "erklaerung": {
+        "titel": "Mode und globale Gerechtigkeit",
+        "text": "Deine Kleidung hat eine politische Geschichte: Wer hat sie unter welchen Bedingungen produziert? Müssen Unternehmen für ihre Lieferketten haften? Was bedeuten die Labels? Politik entscheidet, wie transparent und fair der Handel sein muss.",
+        "sdgs": [8, 12, 17]
+      }
+    },
+    {
+      "id": 5,
+      "frage": "Achtest du beim Einkaufen auf Siegel und Labels?",
+      "optionen": [
+        {
+          "text": "Ja, immer",
+          "themen": ["Verbraucherschutz", "Zertifizierung", "Transparenz"]
+        },
+        {
+          "text": "Manchmal",
+          "themen": ["Verbraucherschutz", "Kennzeichnungspflicht"]
+        },
+        {
+          "text": "Selten",
+          "themen": ["Verbraucherschutz"]
+        },
+        {
+          "text": "Nein, ich vertraue den Labels nicht",
+          "themen": ["Verbraucherschutz", "Zertifizierung", "Transparenz"]
+        },
+        {
+          "text": "Nein, ist mir zu teuer",
+          "themen": ["Soziale Gerechtigkeit", "Subventionen"]
+        }
+      ],
+      "erklaerung": {
+        "titel": "Labels und Vertrauen",
+        "text": "Viele Labels sind nicht staatlich geprüft – wer kontrolliert, was draufsteht? Politik entscheidet, welche Siegel verpflichtend sind, was sie bedeuten müssen und wer sie überprüft. Auch die Frage, warum nachhaltige Produkte oft teurer sind, ist politisch.",
+        "sdgs": [12, 16]
+      }
+    },
+    {
+      "id": 6,
+      "frage": "Welche Software nutzt du hauptsächlich?",
+      "optionen": [
+        {
+          "text": "Große kommerzielle Plattformen",
+          "themen": ["Digitale Souveränität", "Monopole", "Datenschutz"]
+        },
+        {
+          "text": "Mix aus kommerziell und Open Source",
+          "themen": ["Digitalisierung", "Datenschutz"]
+        },
+        {
+          "text": "Hauptsächlich Open Source",
+          "themen": ["Digitale Souveränität", "Freie Software"]
+        },
+        {
+          "text": "Weiß ich nicht genau",
+          "themen": ["Digitale Bildung", "Transparenz"]
+        }
+      ],
+      "erklaerung": {
+        "titel": "Software und Macht",
+        "text": "Welche Software wir nutzen, ist nicht nur technisch, sondern auch politisch: Wem gehören deine Daten? Können staatliche Stellen unabhängig arbeiten? Politik kann Open Source fördern, Monopole regulieren und digitale Bildung stärken.",
+        "sdgs": [9, 16]
+      }
+    },
+    {
+      "id": 7,
+      "frage": "Wie sicher fühlst du dich in deiner Nachbarschaft?",
+      "optionen": [
+        {
+          "text": "Sehr sicher",
+          "themen": ["Stadtplanung", "Präventionsarbeit"]
+        },
+        {
+          "text": "Eher sicher",
+          "themen": ["Stadtplanung", "Polizei"]
+        },
+        {
+          "text": "Eher unsicher",
+          "themen": ["Stadtplanung", "Sozialarbeit", "Polizei"]
+        },
+        {
+          "text": "Sehr unsicher",
+          "themen": ["Stadtplanung", "Sozialarbeit", "Prävention", "Polizei"]
+        }
+      ],
+      "erklaerung": {
+        "titel": "Sicherheit ist mehr als Polizei",
+        "text": "Wie sicher du dich fühlst, hängt von vielen Faktoren ab: Gibt es Streetworker? Sind Straßen gut beleuchtet? Gibt es Jugendarbeit? Wie wird das Miteinander gestaltet? Politik entscheidet über Prävention, Stadtplanung und soziale Angebote.",
+        "sdgs": [11, 16]
+      }
+    },
+    {
+      "id": 8,
+      "frage": "Wie kommunizierst du mit Menschen aus anderen Ländern?",
+      "optionen": [
+        {
+          "text": "Englisch",
+          "themen": ["Sprachpolitik", "Bildung", "Globalisierung"]
+        },
+        {
+          "text": "Verschiedene Sprachen",
+          "themen": ["Sprachpolitik", "Bildung", "Kulturelle Vielfalt"]
+        },
+        {
+          "text": "Übersetzungs-Apps",
+          "themen": ["Digitalisierung", "Sprachbarrieren"]
+        },
+        {
+          "text": "Gar nicht / sehr selten",
+          "themen": ["Internationale Zusammenarbeit", "Bildung"]
+        }
+      ],
+      "erklaerung": {
+        "titel": "Sprache verbindet – oder trennt",
+        "text": "Welche Sprachen du lernst, hängt von Bildungspolitik ab. Dass Englisch dominiert, ist historisch gewachsen. Fragen wie 'Sollten alle Menschen eine gemeinsame Zweitsprache lernen?' oder 'Wie fördern wir Mehrsprachigkeit?' sind politisch.",
+        "sdgs": [4, 10, 17]
+      }
+    }
+  ]
+}

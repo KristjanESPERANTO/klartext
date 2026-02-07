@@ -1,0 +1,106 @@
+{
+  "goals": [
+    {
+      "id": 1,
+      "titel": "Keine Armut",
+      "beschreibung": "Armut in allen ihren Formen und überall beenden",
+      "color": "#E5243B"
+    },
+    {
+      "id": 2,
+      "titel": "Kein Hunger",
+      "beschreibung": "Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen",
+      "color": "#DDA63A"
+    },
+    {
+      "id": 3,
+      "titel": "Gesundheit und Wohlergehen",
+      "beschreibung": "Ein gesundes Leben für alle Menschen jeden Alters gewährleisten",
+      "color": "#4C9F38"
+    },
+    {
+      "id": 4,
+      "titel": "Hochwertige Bildung",
+      "beschreibung": "Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten",
+      "color": "#C5192D"
+    },
+    {
+      "id": 5,
+      "titel": "Geschlechtergleichstellung",
+      "beschreibung": "Geschlechtergleichstellung erreichen und alle Frauen und Mädchen stärken",
+      "color": "#FF3A21"
+    },
+    {
+      "id": 6,
+      "titel": "Sauberes Wasser",
+      "beschreibung": "Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser für alle",
+      "color": "#26BDE2"
+    },
+    {
+      "id": 7,
+      "titel": "Bezahlbare Energie",
+      "beschreibung": "Zugang zu bezahlbarer, verlässlicher, nachhaltiger Energie für alle",
+      "color": "#FCC30B"
+    },
+    {
+      "id": 8,
+      "titel": "Menschenwürdige Arbeit",
+      "beschreibung": "Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum fördern",
+      "color": "#A21942"
+    },
+    {
+      "id": 9,
+      "titel": "Industrie, Innovation, Infrastruktur",
+      "beschreibung": "Widerstandsfähige Infrastruktur aufbauen, nachhaltige Industrialisierung fördern",
+      "color": "#FD6925"
+    },
+    {
+      "id": 10,
+      "titel": "Weniger Ungleichheiten",
+      "beschreibung": "Ungleichheit in und zwischen Ländern verringern",
+      "color": "#DD1367"
+    },
+    {
+      "id": 11,
+      "titel": "Nachhaltige Städte",
+      "beschreibung": "Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten",
+      "color": "#FD9D24"
+    },
+    {
+      "id": 12,
+      "titel": "Nachhaltiger Konsum",
+      "beschreibung": "Nachhaltige Konsum- und Produktionsmuster sicherstellen",
+      "color": "#BF8B2E"
+    },
+    {
+      "id": 13,
+      "titel": "Maßnahmen zum Klimaschutz",
+      "beschreibung": "Umgehend Maßnahmen zur Bekämpfung des Klimawandels ergreifen",
+      "color": "#3F7E44"
+    },
+    {
+      "id": 14,
+      "titel": "Leben unter Wasser",
+      "beschreibung": "Ozeane, Meere und Meeresressourcen nachhaltig nutzen",
+      "color": "#0A97D9"
+    },
+    {
+      "id": 15,
+      "titel": "Leben an Land",
+      "beschreibung": "Landökosysteme schützen, wiederherstellen und nachhaltig nutzen",
+      "color": "#56C02B"
+    },
+    {
+      "id": 16,
+      "titel": "Frieden und Gerechtigkeit",
+      "beschreibung": "Friedliche und inklusive Gesellschaften für nachhaltige Entwicklung fördern",
+      "color": "#00689D"
+    },
+    {
+      "id": 17,
+      "titel": "Partnerschaften für die Ziele",
+      "beschreibung": "Umsetzungsmittel stärken und globale Partnerschaft beleben",
+      "color": "#19486A"
+    }
+  ]
+}

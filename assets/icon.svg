@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="256" fill="#2563eb"/>
+
+  <!-- Speech Bubble (Klartext = Clear Text/Speech) -->
+  <g transform="translate(100, 120)">
+    <!-- Main bubble -->
+    <rect x="0" y="0" width="312" height="200" rx="24" fill="white"/>
+
+    <!-- Bubble tail -->
+    <path d="M 80 200 L 60 240 L 120 200 Z" fill="white"/>
+
+    <!-- Text lines representing "clear/honest speech" -->
+    <rect x="40" y="50" width="232" height="20" rx="10" fill="#2563eb"/>
+    <rect x="40" y="95" width="180" height="20" rx="10" fill="#2563eb"/>
+    <rect x="40" y="140" width="200" height="20" rx="10" fill="#2563eb"/>
+  </g>
+</svg>

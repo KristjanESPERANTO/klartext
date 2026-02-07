@@ -1,0 +1,35 @@
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+.tmp/
+.cache/
+
+# Node (falls später genutzt)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs (falls später genutzt)
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Notes (private)
+.notes.md
+TODO.md

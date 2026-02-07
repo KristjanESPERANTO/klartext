@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Dein Alltag ist politisch – Entdecke politische Zusammenhänge">
+    <meta name="theme-color" content="#2563eb">
+
+    <title>Dein Alltag ist politisch – KlarText</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/module.css">
+    <link rel="manifest" href="../manifest.json">
+    <link rel="icon" type="image/svg+xml" href="../assets/icon.svg">
+</head>
+<body>
+    <header>
+        <nav class="nav-container">
+            <div class="logo">
+                <h1><a href="../index.html">KlarText</a></h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="../index.html">Start</a></li>
+                <li><a href="../about.html">Über uns</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="module-container">
+        <!-- Intro Sektion -->
+        <section id="intro" class="module-section active">
+            <div class="container">
+                <div class="module-header">
+                    <div class="module-icon-large">🏙️</div>
+                    <h2 id="moduleTitle">Dein Alltag ist politisch</h2>
+                    <p id="moduleDescription" class="module-intro">
+                        Politik ist nicht abstrakt – sie beeinflusst deinen Alltag jeden Tag.
+                        Beantworte ein paar Fragen zu deinem Alltag und entdecke, welche politischen Themen dahinterstehen.
+                    </p>
+                    <button class="cta-button" id="startModule">Los geht's</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Fragen Sektion -->
+        <section id="questions" class="module-section">
+            <div class="container">
+                <div class="progress-container">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressBar"></div>
+                    </div>
+                    <p class="progress-text">
+                        Frage <span id="currentQuestion">1</span> von <span id="totalQuestions">8</span>
+                    </p>
+                </div>
+
+                <div class="question-card">
+                    <h3 id="questionText" class="question-title"></h3>
+                    <div id="optionsContainer" class="options-container"></div>
+                    <div class="question-nav">
+                        <button class="btn-secondary" id="prevBtn" style="visibility: hidden;">← Zurück</button>
+                        <button class="btn-primary" id="nextBtn" disabled>Weiter →</button>
+                    </div>
+                </div>
+
+                <!-- Erklärung nach jeder Frage -->
+                <div id="explanation" class="explanation-box" style="display: none;">
+                    <h4 id="explanationTitle"></h4>
+                    <p id="explanationText"></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Ergebnis Sektion -->
+        <section id="results" class="module-section">
+            <div class="container">
+                <div class="results-header">
+                    <h2>Deine politischen Alltagsthemen</h2>
+                    <p>Hier sind die politischen Bereiche, die deinen Alltag am meisten beeinflussen:</p>
+                </div>
+
+                <div id="topThemes" class="themes-grid"></div>
+
+                <div class="results-insight">
+                    <h3>💡 Was bedeutet das?</h3>
+                    <p id="insightText"></p>
+                </div>
+
+                <div class="results-actions">
+                    <button class="cta-button" id="restartBtn">🔄 Nochmal machen</button>
+                    <button class="btn-secondary" id="shareBtn">📤 Teilen</button>
+                    <a href="../index.html" class="btn-secondary">← Zurück zur Übersicht</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <button id="themeToggle" class="theme-toggle" aria-label="Theme wechseln">🌙</button>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 KlarText | <a href="../about.html">Über uns</a> | <a href="https://github.com/yourusername/klartext">GitHub</a></p>
+        </div>
+    </footer>
+
+    <script src="../js/app.js"></script>
+    <script src="../js/modules/alltag.js"></script>
+</body>
+</html>
