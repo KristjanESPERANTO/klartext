@@ -55,22 +55,30 @@
       "optionen": [
         {
           "text": "Sehr leicht, innerhalb weniger Tage",
-          "themen": ["Gesundheitssystem", "Medizinische Versorgung"]
+          "themen": ["Gesundheitssystem", "Medizinische Versorgung"],
+          "erklaerung": "Du hast Glück – schnelle Termine sind nicht überall selbstverständlich. Das hängt von der Ärztedichte in deiner Region ab, die wiederum politisch steuerbar ist.",
+          "reflexion": "War das schon immer so? Oder hat sich die Situation in den letzten Jahren verändert?"
         },
         {
           "text": "Geht so, nach 1-2 Wochen",
-          "themen": ["Gesundheitssystem", "Ärztemangel"]
+          "themen": ["Gesundheitssystem", "Ärztemangel"],
+          "erklaerung": "1-2 Wochen Wartezeit sind der Durchschnitt in vielen Regionen. Politik entscheidet, wie viele Arztsitze es wo gibt und wie Ärzte bezahlt werden.",
+          "reflexion": "Bei welcher Art von Beschwerden wäre dir eine schnellere Versorgung wichtig?"
         },
         {
           "text": "Schwierig, mehrere Wochen Wartezeit",
-          "themen": ["Gesundheitssystem", "Ärztemangel", "Ländliche Entwicklung"]
+          "themen": ["Gesundheitssystem", "Ärztemangel", "Ländliche Entwicklung"],
+          "erklaerung": "Lange Wartezeiten sind oft ein Problem in ländlichen oder strukturschwachen Regionen. Politik könnte gegensteuern – durch Förderung von Landärzten oder mobile Praxen.",
+          "reflexion": "Wie weit musst du fahren zum nächsten Arzt? Ist das für alle in deiner Region machbar?"
         },
         {
           "text": "Sehr schwierig, Monate Wartezeit",
-          "themen": ["Gesundheitssystem", "Versorgungsengpässe"]
+          "themen": ["Gesundheitssystem", "Versorgungsengpässe"],
+          "erklaerung": "Monatelange Wartezeiten zeigen ein strukturelles Problem. Das ist keine Naturgewalt, sondern Resultat politischer Entscheidungen über Ausbildungsplätze, Vergütung und regionale Verteilung.",
+          "reflexion": "Hattest du schon mal eine Situation, wo lange Wartezeiten zum echten Problem wurden?"
         }
       ],
-      "erklaerung": {
+      "allgemeine_erklaerung": {
         "titel": "Gesundheit ist keine Privatsache",
         "text": "Ob du schnell einen Arzttermin bekommst, hängt von der Gesundheitspolitik ab: Wie werden Ärzte bezahlt? Gibt es genug Praxen in deiner Region? Werden Landärzte gefördert? Diese Fragen werden politisch entschieden.",
         "sdgs": [3]
@@ -82,26 +90,36 @@
       "optionen": [
         {
           "text": "Fleischgericht",
-          "themen": ["Landwirtschaftspolitik", "Klimaschutz", "Tierschutz", "Subventionen"]
+          "themen": ["Landwirtschaftspolitik", "Klimaschutz", "Tierschutz", "Subventionen"],
+          "erklaerung": "Fleisch ist in vielen Ländern relativ günstig – weil Tierhaltung massiv subventioniert wird. Die wahren Kosten (Umwelt, Tierwohl) tragen oft andere. Das ist eine politische Entscheidung.",
+          "reflexion": "Wusstest du, dass ein großer Teil der EU-Agrarsubventionen in die Fleischproduktion fließt?"
         },
         {
           "text": "Vegetarisches Gericht",
-          "themen": ["Landwirtschaftspolitik", "Ernährungspolitik"]
+          "themen": ["Landwirtschaftspolitik", "Ernährungspolitik"],
+          "erklaerung": "Vegetarische Ernährung wird kaum staatlich gefördert, obwohl sie oft günstiger und klimafreundlicher ist. Politik könnte das ändern – durch Förderung pflanzlicher Alternativen oder Kantinen-Vorgaben.",
+          "reflexion": "Würdest du dir wünschen, dass vegetarische Optionen überall Standard sind?"
         },
         {
           "text": "Veganes Gericht",
-          "themen": ["Landwirtschaftspolitik", "Klimaschutz", "Tierschutz"]
+          "themen": ["Landwirtschaftspolitik", "Klimaschutz", "Tierschutz"],
+          "erklaerung": "Vegane Ernährung hat den kleinsten ökologischen Fußabdruck – wird aber politisch kaum unterstützt. Manche Länder führen jetzt 'Veggie-Days' in öffentlichen Kantinen ein. Eine politische Wahl.",
+          "reflexion": "Was würde es für dich einfacher machen, öfter vegan zu essen?"
         },
         {
           "text": "Fertiggericht",
-          "themen": ["Verbraucherschutz", "Kennzeichnungspflicht", "Gesundheitspolitik"]
+          "themen": ["Verbraucherschutz", "Kennzeichnungspflicht", "Gesundheitspolitik"],
+          "erklaerung": "Fertiggerichte sind praktisch – aber oft intransparent. Politik entscheidet, was auf der Verpackung stehen muss: Nährwerte, Herkunft, Zusatzstoffe. In manchen Ländern gibt es Ampel-Kennzeichnungen.",
+          "reflexion": "Verstehst du immer, was auf der Zutatenliste steht? Sollte das einfacher sein?"
         },
         {
           "text": "Regional & Bio",
-          "themen": ["Förderung ökologischer Landwirtschaft", "Handelspolitik"]
+          "themen": ["Förderung ökologischer Landwirtschaft", "Handelspolitik"],
+          "erklaerung": "Regional und Bio ist oft teurer – weil diese Landwirtschaft weniger subventioniert wird als konventionelle. Politik könnte das umkehren und nachhaltige Produktion stärker fördern.",
+          "reflexion": "Sollte nachhaltige Ernährung für alle bezahlbar sein? Wie könnte das funktionieren?"
         }
       ],
-      "erklaerung": {
+      "allgemeine_erklaerung": {
         "titel": "Essen ist politisch",
         "text": "Was auf deinem Teller landet und was es kostet, wird massiv durch Politik beeinflusst: Welche Landwirtschaft wird subventioniert? Welche Lebensmittel werden besteuert? Was muss auf der Verpackung stehen? Woher kommen die Zutaten?",
         "sdgs": [2, 12, 13, 15]
@@ -113,26 +131,36 @@
       "optionen": [
         {
           "text": "Fast Fashion Ketten",
-          "themen": ["Handelspolitik", "Arbeitsbedingungen", "Lieferkettengesetz"]
+          "themen": ["Handelspolitik", "Arbeitsbedingungen", "Lieferkettengesetz"],
+          "erklaerung": "Fast Fashion ist billig – aber die Kosten tragen oft Arbeiter*innen in anderen Ländern. Lieferkettengesetze sollen Unternehmen zur Verantwortung ziehen. Gibt es die in deinem Land?",
+          "reflexion": "Wie wichtig ist dir zu wissen, wer deine Kleidung unter welchen Bedingungen hergestellt hat?"
         },
         {
           "text": "Online-Versand",
-          "themen": ["Handelspolitik", "Verbraucherschutz", "Arbeitsbedingungen"]
+          "themen": ["Handelspolitik", "Verbraucherschutz", "Arbeitsbedingungen"],
+          "erklaerung": "Online-Shopping ist bequem – verschleiert aber oft, woher Produkte kommen. Politik entscheidet über Rückgaberechte, Arbeitsbedingungen in Logistik-Zentren und Verpackungsmüll-Regeln.",
+          "reflexion": "Kennst du die Arbeitsbedingungen der Menschen, die deine Pakete packen und liefern?"
         },
         {
           "text": "Lokale Geschäfte",
-          "themen": ["Wirtschaftsförderung", "Stadtentwicklung"]
+          "themen": ["Wirtschaftsförderung", "Stadtentwicklung"],
+          "erklaerung": "Lokaler Handel stärkt die Region – wird aber oft durch Online-Konkurrenz verdrängt. Kommunen können lokale Geschäfte fördern, z.B. durch niedrigere Mieten oder Innenstadt-Konzepte.",
+          "reflexion": "Was würde dich motivieren, öfter lokal einzukaufen? Oder tust du das schon?"
         },
         {
           "text": "Second Hand",
-          "themen": ["Kreislaufwirtschaft", "Nachhaltigkeit"]
+          "themen": ["Kreislaufwirtschaft", "Nachhaltigkeit"],
+          "erklaerung": "Second Hand ist nachhaltig und oft günstig. Politik könnte es stärker fördern – durch Steuervergünstigungen für Reparaturen oder Kampagnen gegen Wegwerfkultur.",
+          "reflexion": "Sollte es einfacher sein, Dinge zu reparieren statt neu zu kaufen?"
         },
         {
           "text": "Fair Trade / nachhaltige Labels",
-          "themen": ["Zertifizierung", "Faire Handelsbedingungen", "Transparenz"]
+          "themen": ["Zertifizierung", "Faire Handelsbedingungen", "Transparenz"],
+          "erklaerung": "Fair Trade Labels versprechen bessere Arbeitsbedingungen. Aber wer kontrolliert das? Politik entscheidet, welche Siegel vertrauenswürdig sind und ob Kontrollen stattfinden.",
+          "reflexion": "Vertraust du den Labels? Was würde dein Vertrauen stärken?"
         }
       ],
-      "erklaerung": {
+      "allgemeine_erklaerung": {
         "titel": "Mode und globale Gerechtigkeit",
         "text": "Deine Kleidung hat eine politische Geschichte: Wer hat sie unter welchen Bedingungen produziert? Müssen Unternehmen für ihre Lieferketten haften? Was bedeuten die Labels? Politik entscheidet, wie transparent und fair der Handel sein muss.",
         "sdgs": [8, 12, 17]
@@ -144,26 +172,36 @@
       "optionen": [
         {
           "text": "Ja, immer",
-          "themen": ["Verbraucherschutz", "Zertifizierung", "Transparenz"]
+          "themen": ["Verbraucherschutz", "Zertifizierung", "Transparenz"],
+          "erklaerung": "Du versuchst, bewusst einzukaufen. Aber: Viele Labels sind nicht staatlich geprüft. Politik könnte klare Standards setzen und nur vertrauenswürdige Siegel zulassen.",
+          "reflexion": "Weißt du bei allen Labels, was sie wirklich bedeuten? Oder ist es manchmal verwirrend?"
         },
         {
           "text": "Manchmal",
-          "themen": ["Verbraucherschutz", "Kennzeichnungspflicht"]
+          "themen": ["Verbraucherschutz", "Kennzeichnungspflicht"],
+          "erklaerung": "Labels können helfen – aber auch überfordern. Es gibt Hunderte davon. Politik könnte das vereinfachen: Weniger Labels, klare Bedeutungen, echte Kontrollen.",
+          "reflexion": "Welche Labels sind dir wichtig? Und welche verwirren dich eher?"
         },
         {
           "text": "Selten",
-          "themen": ["Verbraucherschutz"]
+          "themen": ["Verbraucherschutz"],
+          "erklaerung": "Labels spielen für dich keine große Rolle – vielleicht weil du ihnen nicht vertraust oder sie zu kompliziert sind. Politik könnte sie verständlicher machen.",
+          "reflexion": "Was würde dich motivieren, mehr auf Labels zu achten? Oder ist dir das egal?"
         },
         {
           "text": "Nein, ich vertraue den Labels nicht",
-          "themen": ["Verbraucherschutz", "Zertifizierung", "Transparenz"]
+          "themen": ["Verbraucherschutz", "Zertifizierung", "Transparenz"],
+          "erklaerung": "Dein Misstrauen ist berechtigt: Viele Labels sind Privat-Initiativen ohne echte Kontrolle. Politik könnte unabhängige Prüfungen zur Pflicht machen.",
+          "reflexion": "Was müsste passieren, damit du Labels wieder vertraust?"
         },
         {
           "text": "Nein, ist mir zu teuer",
-          "themen": ["Soziale Gerechtigkeit", "Subventionen"]
+          "themen": ["Soziale Gerechtigkeit", "Subventionen"],
+          "erklaerung": "Nachhaltige Produkte sind oft teurer. Das liegt auch an Subventionen: Konventionelle Landwirtschaft wird stärker gefördert als ökologische. Politik könnte das ändern.",
+          "reflexion": "Sollte nachhaltig produzierte Ware für alle bezahlbar sein? Wie?"
         }
       ],
-      "erklaerung": {
+      "allgemeine_erklaerung": {
         "titel": "Labels und Vertrauen",
         "text": "Viele Labels sind nicht staatlich geprüft – wer kontrolliert, was draufsteht? Politik entscheidet, welche Siegel verpflichtend sind, was sie bedeuten müssen und wer sie überprüft. Auch die Frage, warum nachhaltige Produkte oft teurer sind, ist politisch.",
         "sdgs": [12, 16]
@@ -175,22 +213,30 @@
       "optionen": [
         {
           "text": "Große kommerzielle Plattformen",
-          "themen": ["Digitale Souveränität", "Monopole", "Datenschutz"]
+          "themen": ["Digitale Souveränität", "Monopole", "Datenschutz"],
+          "erklaerung": "Kommerzielle Plattformen sind bequem – aber oft ein Monopol. Politik kann entscheiden: Sollen Behörden abhängig von privaten Firmen sein? Sollten deine Daten verkauft werden dürfen?",
+          "reflexion": "Weißt du, was mit deinen Daten passiert? Würde dich das interessieren?"
         },
         {
           "text": "Mix aus kommerziell und Open Source",
-          "themen": ["Digitalisierung", "Datenschutz"]
+          "themen": ["Digitalisierung", "Datenschutz"],
+          "erklaerung": "Ein Mix ist pragmatisch. Manche Länder fördern gezielt Open Source in Verwaltung und Bildung – um unabhängig zu bleiben. Das ist eine politische Strategie.",
+          "reflexion": "Wusstest du, dass viele freie Alternativen zu kommerzieller Software existieren?"
         },
         {
           "text": "Hauptsächlich Open Source",
-          "themen": ["Digitale Souveränität", "Freie Software"]
+          "themen": ["Digitale Souveränität", "Freie Software"],
+          "erklaerung": "Open Source bedeutet Transparenz und Unabhängigkeit. Politik könnte das stärker fördern – z.B. durch Unterstützung freier Projekte oder Open-Source-Pflicht in Behörden.",
+          "reflexion": "Was hat dich zu Open Source geführt? Sollte das in Schulen gelehrt werden?"
         },
         {
           "text": "Weiß ich nicht genau",
-          "themen": ["Digitale Bildung", "Transparenz"]
+          "themen": ["Digitale Bildung", "Transparenz"],
+          "erklaerung": "Die meisten wissen nicht, welche Software sie nutzen – und das ist ein Problem. Digitale Bildung ist Politik: Sollten alle verstehen, wie die Tools funktionieren, die ihren Alltag prägen?",
+          "reflexion": "Würde es dich interessieren, mehr über die Software zu erfahren, die du täglich nutzt?"
         }
       ],
-      "erklaerung": {
+      "allgemeine_erklaerung": {
         "titel": "Software und Macht",
         "text": "Welche Software wir nutzen, ist nicht nur technisch, sondern auch politisch: Wem gehören deine Daten? Können staatliche Stellen unabhängig arbeiten? Politik kann Open Source fördern, Monopole regulieren und digitale Bildung stärken.",
         "sdgs": [9, 16]
@@ -202,22 +248,30 @@
       "optionen": [
         {
           "text": "Sehr sicher",
-          "themen": ["Stadtplanung", "Präventionsarbeit"]
+          "themen": ["Stadtplanung", "Präventionsarbeit"],
+          "erklaerung": "Dich sicher zu fühlen ist ein Privileg. Das ist oft Ergebnis guter Stadtplanung, sozialer Arbeit und Prävention – nicht nur Polizei. Politik macht den Unterschied.",
+          "reflexion": "Was macht deinen Stadtteil sicher? Gute Beleuchtung, Nachbarschaft, soziale Angebote?"
         },
         {
           "text": "Eher sicher",
-          "themen": ["Stadtplanung", "Polizei"]
+          "themen": ["Stadtplanung", "Polizei"],
+          "erklaerung": "Meistens sicher, manchmal nicht? Oft hängt das von Tageszeit oder Ort ab. Politik kann das beeinflussen: Durch Beleuchtung, Streetwork oder Jugendangebote.",
+          "reflexion": "Wo und wann fühlst du dich unsicher? Was könnte das ändern?"
         },
         {
           "text": "Eher unsicher",
-          "themen": ["Stadtplanung", "Sozialarbeit", "Polizei"]
+          "themen": ["Stadtplanung", "Sozialarbeit", "Polizei"],
+          "erklaerung": "Unsicherheit hat oft strukturelle Gründe: Fehlende Jugendarbeit, schlechte Beleuchtung, wenig öffentlicher Raum. Mehr Polizei allein löst das selten. Politik muss vielfältig reagieren.",
+          "reflexion": "Was würde dich sicherer fühlen lassen? Mehr Polizei oder andere Maßnahmen?"
         },
         {
           "text": "Sehr unsicher",
-          "themen": ["Stadtplanung", "Sozialarbeit", "Prävention", "Polizei"]
+          "themen": ["Stadtplanung", "Sozialarbeit", "Prävention", "Polizei"],
+          "erklaerung": "Starke Unsicherheit zeigt, dass Politik versagt hat – bei Prävention, Stadtplanung und sozialen Angeboten. Sicherheit ist mehr als Strafverfolgung. Sie muss aktiv gestaltet werden.",
+          "reflexion": "Hat sich die Politik in deiner Region schon mit diesem Problem beschäftigt? Was müsste passieren?"
         }
       ],
-      "erklaerung": {
+      "allgemeine_erklaerung": {
         "titel": "Sicherheit ist mehr als Polizei",
         "text": "Wie sicher du dich fühlst, hängt von vielen Faktoren ab: Gibt es Streetworker? Sind Straßen gut beleuchtet? Gibt es Jugendarbeit? Wie wird das Miteinander gestaltet? Politik entscheidet über Prävention, Stadtplanung und soziale Angebote.",
         "sdgs": [11, 16]
@@ -229,22 +283,30 @@
       "optionen": [
         {
           "text": "Englisch",
-          "themen": ["Sprachpolitik", "Bildung", "Globalisierung"]
+          "themen": ["Sprachpolitik", "Bildung", "Globalisierung"],
+          "erklaerung": "Englisch als Weltsprache ist historisch gewachsen – aber auch das Ergebnis von Macht und Kolonialismus. Sollte eine gemeinsame Sprache neutral sein? Esperanto wurde genau dafür entwickelt.",
+          "reflexion": "Ist es gerecht, dass manche ihre Muttersprache sprechen können und andere nicht?"
         },
         {
           "text": "Verschiedene Sprachen",
-          "themen": ["Sprachpolitik", "Bildung", "Kulturelle Vielfalt"]
+          "themen": ["Sprachpolitik", "Bildung", "Kulturelle Vielfalt"],
+          "erklaerung": "Mehrsprachigkeit ist wertvoll – wird aber in Schulen unterschiedlich gefördert. Welche Sprachen gelernt werden, ist eine politische Entscheidung. Sie prägt, mit wem du kommunizieren kannst.",
+          "reflexion": "Welche Sprachen hättest du gerne in der Schule gelernt? Oder lernst du selbstständig?"
         },
         {
           "text": "Übersetzungs-Apps",
-          "themen": ["Digitalisierung", "Sprachbarrieren"]
+          "themen": ["Digitalisierung", "Sprachbarrieren"],
+          "erklaerung": "Technik überwindet Sprachbarrieren – aber sie kann Bildungspolitik nicht ersetzen. Wer entscheidet, welche Sprachen die Apps gut beherrschen? Auch das ist eine Machtfrage.",
+          "reflexion": "Reicht Technik aus, oder sollten Menschen mehrsprachig aufwachsen?"
         },
         {
           "text": "Gar nicht / sehr selten",
-          "themen": ["Internationale Zusammenarbeit", "Bildung"]
+          "themen": ["Internationale Zusammenarbeit", "Bildung"],
+          "erklaerung": "Wenig internationaler Austausch kann isolieren. Politik entscheidet, ob Schulen internationale Partnerschaften fördern, ob Austauschjahre bezahlbar sind und wie offen Grenzen sind.",
+          "reflexion": "Würde es dich interessieren, mehr mit Menschen aus anderen Ländern zu kommunizieren?"
         }
       ],
-      "erklaerung": {
+      "allgemeine_erklaerung": {
         "titel": "Sprache verbindet – oder trennt",
         "text": "Welche Sprachen du lernst, hängt von Bildungspolitik ab. Dass Englisch dominiert, ist historisch gewachsen. Fragen wie 'Sollten alle Menschen eine gemeinsame Zweitsprache lernen?' oder 'Wie fördern wir Mehrsprachigkeit?' sind politisch.",
         "sdgs": [4, 10, 17]

@@ -334,6 +334,36 @@
     line-height: 1.7;
 }
 
+/* Personalized Narrative */
+.personal-narrative {
+    line-height: 1.8;
+}
+
+.personal-narrative h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary);
+}
+
+.personal-narrative p {
+    margin-bottom: 1.25rem;
+    color: var(--text);
+    font-size: 1.0625rem;
+}
+
+.personal-narrative strong {
+    color: var(--primary);
+    font-weight: 600;
+}
+
+.narrative-closing {
+    font-style: italic;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    margin-top: 1.5rem;
+    color: var(--text-light) !important;
+}
+
 /* SDG Results Section */
 .sdg-results {
     max-width: 900px;
