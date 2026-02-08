@@ -8,30 +8,42 @@
       "optionen": [
         {
           "text": "Auto (allein)",
-          "themen": ["Verkehrspolitik", "Klimaschutz", "Stadtplanung"]
+          "themen": ["Verkehrspolitik", "Klimaschutz", "Stadtplanung"],
+          "erklaerung": "Autofahren ist bequem – aber auch teuer für die Allgemeinheit. Wusstest du, dass öffentliche Parkplätze in Städten oft mit Millionen subventioniert werden? Gleichzeitig fließen Steuern in Straßenbau und -wartung.",
+          "reflexion": "Hast du die Wahl, oder ist das Auto für dich die einzige realistische Option?"
         },
         {
           "text": "Auto (Fahrgemeinschaft)",
-          "themen": ["Verkehrspolitik", "Klimaschutz"]
+          "themen": ["Verkehrspolitik", "Klimaschutz"],
+          "erklaerung": "Fahrgemeinschaften sind ein guter Kompromiss. Politik könnte sie stärker fördern – zum Beispiel durch Carpool-Spuren oder Steuervorteile. In manchen Ländern gibt es das bereits.",
+          "reflexion": "Was würde dich motivieren, noch öfter Fahrgemeinschaften zu bilden?"
         },
         {
           "text": "Öffentliche Verkehrsmittel",
-          "themen": ["Infrastruktur", "Öffentlicher Nahverkehr", "Soziale Mobilität"]
+          "themen": ["Infrastruktur", "Öffentlicher Nahverkehr", "Soziale Mobilität"],
+          "erklaerung": "Öffentliche Verkehrsmittel sind politisch gestaltet: Wie oft fährt der Bus? Wie teuer ist das Ticket? In manchen Städten ist der ÖPNV kostenlos – bezahlt durch Steuern. Eine politische Entscheidung.",
+          "reflexion": "Wie zufrieden bist du mit dem Angebot in deiner Region? Was müsste sich ändern?"
         },
         {
           "text": "Fahrrad",
-          "themen": ["Radinfrastruktur", "Klimaschutz", "Gesundheitspolitik"]
+          "themen": ["Radinfrastruktur", "Klimaschutz", "Gesundheitspolitik"],
+          "erklaerung": "Radfahren ist günstig, gesund und klimafreundlich. Ob du sicher Rad fahren kannst, hängt von politischen Entscheidungen ab: Gibt es Radwege? Sind sie gut gewartet? Wird Radverkehr priorisiert?",
+          "reflexion": "Fühlst du dich auf dem Rad sicher? Was würde das Radfahren für dich attraktiver machen?"
         },
         {
           "text": "Zu Fuß",
-          "themen": ["Stadtplanung", "Wohnungspolitik"]
+          "themen": ["Stadtplanung", "Wohnungspolitik"],
+          "erklaerung": "Zu Fuß gehen zu können ist ein Privileg – und ein Zeichen guter Stadtplanung. Es bedeutet, dass Wohnen, Arbeiten und Einkaufen nah beieinander liegen. Politik entscheidet über diese 'Stadt der kurzen Wege'.",
+          "reflexion": "Was schätzt du daran, zu Fuß gehen zu können? Ist das für alle in deiner Stadt möglich?"
         },
         {
           "text": "Home Office",
-          "themen": ["Arbeitszeitpolitik", "Digitalisierung"]
+          "themen": ["Arbeitszeitpolitik", "Digitalisierung"],
+          "erklaerung": "Home Office spart Zeit, Geld und CO₂. Ob du es nutzen darfst, hängt oft von Arbeitsrecht und Unternehmenskultur ab – beides wird politisch mitgestaltet. Manche Länder haben ein Recht auf Home Office eingeführt.",
+          "reflexion": "Wie wichtig ist dir die Flexibilität? Sollte Home Office ein Rechtsanspruch sein?"
         }
       ],
-      "erklaerung": {
+      "allgemeine_erklaerung": {
         "titel": "Mobilität ist Politik",
         "text": "Wie du zur Arbeit kommst, hängt von vielen politischen Entscheidungen ab: Gibt es gut ausgebaute Radwege? Wie oft fährt der Bus? Sind die Tickets bezahlbar? Ist Home Office erlaubt? All das wird politisch gestaltet – von der Kommune bis zur EU.",
         "sdgs": [11, 13]

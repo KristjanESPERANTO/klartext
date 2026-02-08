@@ -20,7 +20,7 @@ Politik ist nicht abstrakt. Sie betrifft jeden Alltag – von der Busverbindung 
 
 ## Live Demo
 
-[Zur App](https://kristjan.github.io/klartext) _(noch in Entwicklung)_
+[Zur App](https://kristjanesperanto.github.io/klartext/)
 
 ## Technologie
 
@@ -33,7 +33,7 @@ Politik ist nicht abstrakt. Sie betrifft jeden Alltag – von der Busverbindung 
 
 ```bash
 # Repository klonen
-git clone https://github.com/yourusername/klartext.git
+git clone https://github.com/KristjanESPERANTO/klartext.git
 cd klartext
 
 # Einfach index.html im Browser öffnen
@@ -76,8 +76,8 @@ MIT License – siehe [LICENSE](LICENSE.md)
 
 ## Kontakt & Community
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/klartext/issues)
-- **Diskussionen**: [GitHub Discussions](https://github.com/yourusername/klartext/discussions)
+- **Issues**: [GitHub Issues](https://github.com/KristjanESPERANTO/klartext/issues)
+- **Diskussionen**: [GitHub Discussions](https://github.com/KristjanESPERANTO/klartext/discussions)
 
 ---
 
